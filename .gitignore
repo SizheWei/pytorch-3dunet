@@ -12,3 +12,9 @@ logs/
 
 # PyTorch models
 *.pytorch
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# data file
+resources
